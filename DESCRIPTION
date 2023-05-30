@@ -8,3 +8,5 @@ Description: This package is a demonstration of how to create a package in R
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/nathanhonorato/demo
+BugReports: https://github.com/nathanhonorato/demo/issues
