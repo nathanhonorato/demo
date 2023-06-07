@@ -1,0 +1,16 @@
+citHeader("To cite demo in publications use:")
+
+citEntry(
+  entry    = "Article",
+  title    = "Demo",
+  author   = "Nathan",
+  journal  = ,
+  year     = ,
+  volume   = ,
+  number   = ,
+  pages    = ,
+  url      = ,
+  textVersion = paste(
+
+  )
+)
