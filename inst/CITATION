@@ -4,13 +4,13 @@ citEntry(
   entry    = "Article",
   title    = "Demo",
   author   = "Nathan",
-  journal  = ,
-  year     = ,
-  volume   = ,
-  number   = ,
-  pages    = ,
-  url      = ,
-  textVersion = paste(
+  journal  = ".",
+  year     = ".",
+  volume   = ".",
+  number   = ".",
+  pages    = ".",
+  url      = ".",
+  textVersion = paste("Versão em texto"
 
   )
 )
