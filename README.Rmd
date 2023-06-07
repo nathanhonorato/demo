@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/nathanhonorato/demo/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/nathanhonorato/demo/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 O objetivo do pacote demo é demonstrar como criar um pequeno pacote em R
